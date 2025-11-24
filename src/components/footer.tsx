@@ -15,6 +15,7 @@ export default function Footer() {
           </p>
           <p className="text-xs italic text-gray-500">
             Website developed by  Deepak Kulhar (Programmer) <br />
+                                  with assistance of 
                                   Teepu (AP)  <br />
                                   Sanjay Singh (AP)  <br />
                                   Ved Prakash Jangir(AP)  <br />
